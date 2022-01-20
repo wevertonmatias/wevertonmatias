@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/weverton-matias-09854416b/)
 
-### Tecnologias
+# Tecnologias
 
 <div style="display: inline_block">
     <img aling="center" alt="html5"
@@ -25,3 +25,39 @@
     <img aling="center" alt="docker"
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
+
+# Projetos
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>💡 Descrição</b></td>
+      <td><b>🏁 Início/Fim</b></td>
+      <td><b>📚 Repositório</b></td>
+      <td><b>📜 Certificado</b></td>
+      <td><b>📬 Site</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+            <b>
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">Iniciando com Django 2.0
+                </a>
+            </b>
+        </td>
+        <td>
+            <b>Dez-2019/Fev-2020</b>
+        </td>
+      <td>
+        <a href="https://github.com/wevertonmatias/curso-django-2.0">Clique</a>
+      </td>
+        <td>
+        <a href="#">-</a>
+        </td>
+      <td>
+        <a href="#">-</a>
+      </td>
+    
+  </tbody>
+</table>

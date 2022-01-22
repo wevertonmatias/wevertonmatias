@@ -29,13 +29,15 @@
         src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
-<h1>Cursos</h1>
+<h1>Projetos e Cursos</h1>
 <table>
-    <thead align="center">
+    <thead>
         <tr border: none;>
             <td><b>💡 Descrição</b></td>
             <td><b>🏁 Start/Status</b></td>
             <td><b>📜 Certificado</b></td>
+            <td><b>📚 Repositório</b></td>
+            <td><b>👀 Demonstração</b></td>
         </tr>
     </thead>
     <tbody>
@@ -50,6 +52,14 @@
             </td>
             <td>
                 <a href="#"></a>
+            </td>
+            <td>
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
+                    Clique
+                </a>
+            </td>
+            <td>
+                <a href=""></a>
             </td>
         </tr>
         <tr>
@@ -66,39 +76,8 @@
                     Clique
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<h1>Projetos</h1>
-
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>💡 Descrição</b></td>
-            <td><b>🏁 Start</b></td>
-            <td><b>📚 Repositório</b></td>
-            <td><b>👀 Demonstração</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0">
-                    Iniciando com Django 2.0
-                </a>
-            </td>
-            <td>
-                Dez/2019
-            </td>
-            <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0">
-                    Clique
-                </a>
-            </td>
-            <td>
-                <a href="#"></a>
-            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
         </tr>
     </tbody>
 </table>

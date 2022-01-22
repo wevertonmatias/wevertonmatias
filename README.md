@@ -2,7 +2,7 @@
     Olá eu sou o Weverton Matias 🖖.
 </h1>
 
-<a href="https://www.linkedin.com/in/weverton-matias-09854416b/" target="_blank">
+<a href="https://www.linkedin.com/in/weverton-matias-09854416b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -29,62 +29,75 @@
         src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
-<h1>Projetos</h1>
+<h1>Cursos</h1>
 <table>
     <thead align="center">
         <tr border: none;>
             <td><b>💡 Descrição</b></td>
-            <td><b>🏁 Início/Fim</b></td>
-            <td><b>📚 Repositório</b></td>
+            <td><b>🏁 Start/Status</b></td>
             <td><b>📜 Certificado</b></td>
-            <td><b>📬 Site</b></td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <b>
-                    <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
-                        Iniciando com Django 2.0
-                    </a>
-                </b>
-            </td>
-            <td>
-                <b>Dez-2019/Fev-2020</b>
-            </td>
-            <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
-                    Clique
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
+                    Iniciando com Django 2.0
                 </a>
             </td>
             <td>
-                <a href="#" target="_blank"></a>
+                <img src="https://progress-bar.dev/100/?title=DEZ/2019">
             </td>
             <td>
-                <a href="#" target="_blank"></a>
+                <a href="#"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <b>
-                    <a href="certificados/back/Yii_Framework_PHP.pdf" target="_blank">
-                        Yii - Framework PHP
-                    </a>
-                </b>
+                <a href="certificados/back/Yii_Framework_PHP.pdf">
+                    Yii - Framework PHP
+                </a>
             </td>
             <td>
-                <b>Fev-2020/Fev-2020</b>
+                <img src="https://progress-bar.dev/100/?title=FEV/2020">
             </td>
             <td>
-                <a href="#" target="_blank"></a>
+                <a href="./certificados/back/Yii_Framework_PHP.pdf">
+                    Clique
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Projetos</h1>
+
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>💡 Descrição</b></td>
+            <td><b>🏁 Start</b></td>
+            <td><b>📚 Repositório</b></td>
+            <td><b>👀 Demonstração</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
+                    Iniciando com Django 2.0
+                </a>
             </td>
             <td>
-                <a href="./certificados/back/Yii_Framework_PHP.pdf" target="_blank">
+                Dez/2019
+            </td>
+            <td>
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
                     Clique
                 </a>
             </td>
             <td>
-                <a href="#" target="_blank"></a>
+                <a href="#"></a>
             </td>
         </tr>
     </tbody>

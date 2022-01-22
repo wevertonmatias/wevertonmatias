@@ -79,5 +79,21 @@
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
+        <tr>
+            <td>
+                <a href="#">
+                    Cursos FullStack JavaScript. NodeJs, ReactJs e React Native
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/30/?title=JAN/2021">
+            </td>
+            <td>
+                <a href="#">
+                </a>
+            </td>
+            <td><a href="https://github.com/wevertonmatias/fullstack_javascript">Clique</a></td>
+            <td><a href=""></a></td>
+        </tr>
     </tbody>
 </table>

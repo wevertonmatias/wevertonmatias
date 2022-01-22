@@ -79,12 +79,12 @@
                 <a href="#" target="_blank"></a>
             </td>
             <td>
-                <a href="./certificados/back/Yii_Framework_PHP.pdf" target="__blanck">
+                <a href="./certificados/back/Yii_Framework_PHP.pdf" target="_blank">
                     Clique
                 </a>
             </td>
             <td>
-                <a href="#"></a>
+                <a href="#" target="_blank"></a>
             </td>
         </tr>
     </tbody>

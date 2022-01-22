@@ -53,21 +53,21 @@
                 <b>Dez-2019/Fev-2020</b>
             </td>
             <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0"target="__blank">
+                <a href="https://github.com/wevertonmatias/curso-django-2.0" target="__blank">
                     Clique
                 </a>
             </td>
             <td>
-                <a href="#">-</a>
+                <a href="#" target="__blank"></a>
             </td>
             <td>
-                <a href="">-</a>
+                <a href="#" target="__blank"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <b>
-                    <a href="certificados/back/Yii_Framework_PHP.pdf">
+                    <a href="certificados/back/Yii_Framework_PHP.pdf" target="__blank">
                         Yii - Framework PHP
                     </a>
                 </b>
@@ -76,13 +76,15 @@
                 <b>FEV-2020/Fev-2020</b>
             </td>
             <td>
-                <a href="#">-</a>
+                <a href="#" target="__blank"></a>
             </td>
             <td>
-                <a href="./certificados/back/Yii_Framework_PHP.pdf">Clique</a>
+                <a href="./certificados/back/Yii_Framework_PHP.pdf" target="__blanck">
+                    Clique
+                </a>
             </td>
             <td>
-                <a href="#">-</a>
+                <a href="#"></a>
             </td>
         </tr>
     </tbody>

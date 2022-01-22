@@ -73,7 +73,7 @@
                 </b>
             </td>
             <td>
-                <b>FEV-2020/Fev-2020</b>
+                <b>Fev-2020/Fev-2020</b>
             </td>
             <td>
                 <a href="#" target="__blank"></a>

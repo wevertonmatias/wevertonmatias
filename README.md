@@ -2,7 +2,7 @@
     Olá eu sou o Weverton Matias 🖖.
 </h1>
 
-<a href="https://www.linkedin.com/in/weverton-matias-09854416b/" target="__blank">
+<a href="https://www.linkedin.com/in/weverton-matias-09854416b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -44,7 +44,7 @@
         <tr>
             <td>
                 <b>
-                    <a href="https://github.com/wevertonmatias/curso-django-2.0" target="__blank">
+                    <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
                         Iniciando com Django 2.0
                     </a>
                 </b>
@@ -53,21 +53,21 @@
                 <b>Dez-2019/Fev-2020</b>
             </td>
             <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0" target="__blank">
+                <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
                     Clique
                 </a>
             </td>
             <td>
-                <a href="#" target="__blank"></a>
+                <a href="#" target="_blank"></a>
             </td>
             <td>
-                <a href="#" target="__blank"></a>
+                <a href="#" target="_blank"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <b>
-                    <a href="certificados/back/Yii_Framework_PHP.pdf" target="__blank">
+                    <a href="certificados/back/Yii_Framework_PHP.pdf" target="_blank">
                         Yii - Framework PHP
                     </a>
                 </b>
@@ -76,7 +76,7 @@
                 <b>Fev-2020/Fev-2020</b>
             </td>
             <td>
-                <a href="#" target="__blank"></a>
+                <a href="#" target="_blank"></a>
             </td>
             <td>
                 <a href="./certificados/back/Yii_Framework_PHP.pdf" target="__blanck">

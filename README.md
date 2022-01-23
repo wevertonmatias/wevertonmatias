@@ -144,15 +144,6 @@
         </tr>
         <tr>
             <td>
-                <a href="./certificados/desenvolvimento-de-temas-para-wordpress.jpg">
-                    Clique
-                </a>
-            </td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
-        </tr>
-        <tr>
-            <td>
                 <a href="./certificados/temas-avancados-com-wordpress.jpg">
                     Wordpress - Temas Avançados
                 </a>

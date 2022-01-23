@@ -139,6 +139,11 @@
             <td>
                 <img src="https://progress-bar.dev/100/?title=JUN/2020">
             </td>
+            <td>
+                <a href="./certificados/desenvolvimento-de-temas-para-wordpress.jpg">
+                    Clique
+                </a>
+            </td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>

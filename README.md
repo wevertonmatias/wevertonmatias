@@ -2,7 +2,7 @@
     Olá eu sou o Weverton Matias 🖖.
 </h1>
 
-<a href="https://www.linkedin.com/in/weverton-matias-09854416b/" target="_blank">
+<a href="https://www.linkedin.com/in/weverton-matias-09854416b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -29,63 +29,207 @@
         src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
-<h1>Projetos</h1>
+<h1>Projetos e Cursos</h1>
 <table>
-    <thead align="center">
+    <thead>
         <tr border: none;>
             <td><b>💡 Descrição</b></td>
-            <td><b>🏁 Início/Fim</b></td>
-            <td><b>📚 Repositório</b></td>
+            <td><b>🏁 Start/Status</b></td>
             <td><b>📜 Certificado</b></td>
-            <td><b>📬 Site</b></td>
+            <td><b>📚 Repositório</b></td>
+            <td><b>👀 Demonstração</b></td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <b>
-                    <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
-                        Iniciando com Django 2.0
-                    </a>
-                </b>
-            </td>
-            <td>
-                <b>Dez-2019/Fev-2020</b>
-            </td>
-            <td>
-                <a href="https://github.com/wevertonmatias/curso-django-2.0" target="_blank">
-                    Clique
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
+                    Iniciando com Django 2.0
                 </a>
             </td>
             <td>
-                <a href="#" target="_blank"></a>
-            </td>
-            <td>
-                <a href="#" target="_blank"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <b>
-                    <a href="certificados/back/Yii_Framework_PHP.pdf" target="_blank">
-                        Yii - Framework PHP
-                    </a>
-                </b>
-            </td>
-            <td>
-                <b>Fev-2020/Fev-2020</b>
-            </td>
-            <td>
-                <a href="#" target="_blank"></a>
-            </td>
-            <td>
-                <a href="./certificados/back/Yii_Framework_PHP.pdf" target="__blanck">
-                    Clique
-                </a>
+                <img src="https://progress-bar.dev/100/?title=DEZ/2019">
             </td>
             <td>
                 <a href="#"></a>
             </td>
+            <td>
+                <a href="https://github.com/wevertonmatias/curso-django-2.0">
+                    Clique
+                </a>
+            </td>
+            <td>
+                <a href=""></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="certificados/Yii_Framework_PHP.pdf">
+                    Yii - Framework PHP
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=FEV/2020">
+            </td>
+            <td>
+                <a href="./certificados/Yii_Framework_PHP.pdf">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/yii2-basico.jpg">
+                    Yii - Framework Básico
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=MAI/2020">
+            </td>
+            <td>
+                <a href="./certificados/yii2-basico.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/yii2-active-records.jpg">
+                    Yii - Active Records
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=MAI/2020">
+            </td>
+            <td>
+                <a href="./certificados/yii2-active-records.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/yii2-formularios-e-validacoes.jpg">
+                    Yii - Formulários e Validações
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JUN/2020">
+            </td>
+            <td>
+                <a href="./certificados/yii2-formularios-e-validacoes.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/desenvolvimento-de-temas-para-wordpress.jpg">
+                    Wordpress - Desenvolvimento de Temas
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JUN/2020">
+            </td>
+            <td>
+                <a href="./certificados/desenvolvimento-de-temas-para-wordpress.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/temas-avancados-com-wordpress.jpg">
+                    Wordpress - Temas Avançados
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JUL/2020">
+            </td>
+            <td>
+                <a href="./certificados/temas-avancados-com-wordpress.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/desenvolvimento-de-plugins-para-wordpress.jpg">
+                    Wordpress - Desenvolvimento de Plugins
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JUL/2020">
+            </td>
+            <td>
+                <a href="./certificados/desenvolvimento-de-plugins-para-wordpress.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/plugins-avancados-com-wordpress.jpg">
+                    Wordpress - Plugins Avançados
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JUL/2020">
+            </td>
+            <td>
+                <a href="./certificados/plugins-avancados-com-wordpress.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="./certificados/terminal-no-linux-v2.jpg">
+                    Terminal Linux Básico
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JAN/2021">
+            </td>
+            <td>
+                <a href="./certificados/terminal-no-linux-v2.jpg">
+                    Clique
+                </a>
+            </td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">
+                    Cursos FullStack JavaScript. NodeJs, ReactJs e React Native
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/30/?title=JAN/2021">
+            </td>
+            <td>
+                <a href="#">
+                </a>
+            </td>
+            <td><a href="https://github.com/wevertonmatias/fullstack_javascript">Clique</a></td>
+            <td><a href=""></a></td>
         </tr>
     </tbody>
 </table>

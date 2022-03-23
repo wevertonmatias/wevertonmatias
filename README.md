@@ -46,7 +46,6 @@
                 <a href="https://github.com/wevertonmatias/curso-django-2.0">
                     Iniciando com Django 2.0
                 </a>
-<<<<<<< HEAD
             </td>
             <td>
                 <img src="https://progress-bar.dev/100/?title=DEZ/2019">
@@ -93,21 +92,12 @@
                 <a href="./certificados/yii2-basico.jpg">
                     Clique
                 </a>
-=======
-            </td>
-            <td>
-                <img src="https://progress-bar.dev/100/?title=DEZ/2019">
-            </td>
-            <td>
-                <a href="#"></a>
->>>>>>> 09df786afe6e75bc57e78566d3bf9305e708e3d7
             </td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
         <tr>
             <td>
-<<<<<<< HEAD
                 <a href="./certificados/yii2-active-records.jpg">
                     Yii - Active Records
                 </a>
@@ -119,21 +109,12 @@
                 <a href="./certificados/yii2-active-records.jpg">
                     Clique
                 </a>
-=======
-                <a href="https://github.com/wevertonmatias/curso-django-2.0">
-                    Clique
-                </a>
-            </td>
-            <td>
-                <a href=""></a>
->>>>>>> 09df786afe6e75bc57e78566d3bf9305e708e3d7
             </td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
         <tr>
             <td>
-<<<<<<< HEAD
                 <a href="./certificados/yii2-formularios-e-validacoes.jpg">
                     Yii - Formulários e Validações
                 </a>
@@ -157,32 +138,14 @@
             </td>
             <td>
                 <img src="https://progress-bar.dev/100/?title=JUN/2020">
-=======
-                <a href="certificados/back/Yii_Framework_PHP.pdf">
-                    Yii - Framework PHP
-                </a>
-            </td>
-            <td>
-                <img src="https://progress-bar.dev/100/?title=FEV/2020">
-            </td>
-            <td>
-                <a href="./certificados/back/Yii_Framework_PHP.pdf">
-                    Clique
-                </a>
->>>>>>> 09df786afe6e75bc57e78566d3bf9305e708e3d7
             </td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
         <tr>
             <td>
-<<<<<<< HEAD
                 <a href="./certificados/desenvolvimento-de-temas-para-wordpress.jpg">
                     Clique
-=======
-                <a href="#">
-                    Cursos FullStack JavaScript. NodeJs, ReactJs e React Native
->>>>>>> 09df786afe6e75bc57e78566d3bf9305e708e3d7
                 </a>
             </td>
             <td><a href=""></a></td>
@@ -190,7 +153,6 @@
         </tr>
         <tr>
             <td>
-<<<<<<< HEAD
                 <a href="./certificados/temas-avancados-com-wordpress.jpg">
                     Wordpress - Temas Avançados
                 </a>
@@ -264,8 +226,6 @@
                 </a>
             </td>
             <td>
-=======
->>>>>>> 09df786afe6e75bc57e78566d3bf9305e708e3d7
                 <img src="https://progress-bar.dev/30/?title=JAN/2021">
             </td>
             <td>

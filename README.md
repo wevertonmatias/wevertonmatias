@@ -226,7 +226,7 @@
                 </a>
             </td>
             <td>
-                <img src="https://progress-bar.dev/30/?title=JAN/2021">
+                <img src="https://progress-bar.dev/30/?title=JAN/2022">
             </td>
             <td>
                 <a href="#">
@@ -234,6 +234,26 @@
             </td>
             <td><a href="https://github.com/wevertonmatias/fullstack_javascript">Clique</a></td>
             <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">
+                    Web Scraping com Python e Beautiful Soup
+                </a>
+            </td>
+            <td>
+                <img src="https://progress-bar.dev/100/?title=JAN/2022">
+            </td>
+            <td>
+                <a href="./certificados/Web_Scraping_com_Python_e_Beautiful_Soup.pdf">Clique
+                </a>
+            </td>
+            <td>
+                <a href=""></a>
+            </td>
+            <td>
+                <a href=""></a>
+            </td>
         </tr>
     </tbody>
 </table>
